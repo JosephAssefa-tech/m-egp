@@ -1,0 +1,13 @@
+/* @tailwind base; */
+@import './preflight.css';
+@tailwind components;
+@tailwind utilities;
+@import '@mantine/core/styles.css';
+@import '@mantine/notifications/styles.css';
+html,
+body {
+  @apply bg-white;
+}
+body {
+  font-size: 14px;
+}

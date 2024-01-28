@@ -1,0 +1,29 @@
+{
+  "cSpell.words": [
+    "bussines",
+    "FPPA",
+    "gitops",
+    "libphonenumber",
+    "Mantine",
+    "MBRS",
+    "megp",
+    "NCIC",
+    "Perago",
+    "PPDA",
+    "Uppy"
+  ],
+  "editor.formatOnPaste": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true,
+    "source.fixAll.format": true
+  },
+  "files.associations": {
+    "*.css": "tailwindcss",
+    "*.scss": "tailwindcss"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  }
+}

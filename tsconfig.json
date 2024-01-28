@@ -1,0 +1,3 @@
+{
+  "extends": "@megp/tsconfig/base.json"
+}
